@@ -1,0 +1,107 @@
+.fullhead{
+    height: 100px;
+    background-color: black;
+}
+.carticon{
+    font-size: xx-large;
+}
+.lout{
+    color: red;
+    background-color: black;
+}
+.iconhead{
+    width: 100px;
+    height: 100px;
+    border-radius:50%;
+    float: left;
+    margin-left: 100px;
+}
+.heading{
+    text-align: left;
+    font: normal normal 1000 20px/27px Avenir;
+    letter-spacing: 1.8px;
+    color: white;
+    opacity: 1;
+    float: left;
+    margin-top: 35px;
+    font-size: xxx-large;
+}
+.lefthead{
+    display: flex;
+    position: relative;
+    width: 550px;
+    justify-content: flex-end;
+    top: 40px;
+    left: 110px;
+}
+.lefthead100{
+    display: flex;
+    position: relative;
+    width: 250px;
+    top: 40px;
+    left: 500px;
+}
+.pas{
+    width: 80px;
+    height: 80px;
+    color: white;
+    position: relative;
+    top: -50px;
+}
+.pas:hover{
+    background-color: green;
+}
+.out{
+    color: white;
+    background-color: red;
+    width: 100px;
+    height: 40px;
+    padding-top: 20px;
+    position: relative;
+    top: -40px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.out:hover{
+    background-color: white;
+    color: red;
+}
+.log,.reg{
+    margin:30px;
+    font-size: x-large;
+    color: white;
+    border: 1px solid white;
+    background-color: black;
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+}
+.reg{
+    background-color: green !important;
+}
+.log:hover{
+    color:green;
+    border: 1px solid green;
+}
+.reg:hover{
+    color: green;
+    border: 1px solid white;
+    background-color: white !important;
+}
+*{
+    text-decoration: none;
+}
+.lh:hover{
+    background-color: azure;
+}
+.footer{
+    position: relative;
+    top: 40px;
+    height: 80px;
+    text-align: center;
+    background-color: lightblue;
+}
+.footer p{
+    color: black;
+    position: relative;
+    top: 30px;
+}
